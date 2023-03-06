@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+    overflow: scroll;
+    flex-direction: column;
+    margin-top: 10vh;
+}
+.page {
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.page.gallery{
+    background-color: bisque;
+}
+.page.projects{
+    background-color: white;
+}
+.page.testimonials{
+    background-color: blue;
+}

@@ -1,0 +1,6 @@
+.team {
+    display: flex;
+    overflow: scroll;
+    flex-direction: column;
+    margin-top: 10vh;
+}

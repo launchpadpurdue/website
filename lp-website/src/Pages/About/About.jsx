@@ -64,7 +64,18 @@ export default function About() {
             </div>
         </div>
         <div className="page testimonials">
-            Testimonials
+            <div className="testimonial">
+              <img className = "testimonialImage" src="https://se-images.campuslabs.com/clink/images/d6753cc7-294b-412b-9e22-d276ac8475509da32c88-44a2-490e-abed-b1fd9e8d742f.jpg?preset=w1500" alt="" />
+              <p>Testimonial 1</p>
+            </div>
+            <div className="testimonial">
+              <img className = "testimonialImage" src="https://se-images.campuslabs.com/clink/images/d6753cc7-294b-412b-9e22-d276ac8475509da32c88-44a2-490e-abed-b1fd9e8d742f.jpg?preset=w1500" alt="" />
+              <p>Testimonial 2</p>
+            </div>
+            <div className="testimonial">
+              <img className = "testimonialImage" src="https://se-images.campuslabs.com/clink/images/d6753cc7-294b-412b-9e22-d276ac8475509da32c88-44a2-490e-abed-b1fd9e8d742f.jpg?preset=w1500" alt="" />
+              <p>Testimonial 3</p>
+            </div>
         </div>
     </div>
   )

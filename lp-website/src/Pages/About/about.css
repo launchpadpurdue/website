@@ -17,8 +17,106 @@
     background-color: bisque;
 }
 .page.projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
+    flex-direction: column;
+    padding: 10px;
 }
 .page.testimonials{
-    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: gray;
+}
+.backgroundSlider {
+    position: absolute;
+    height: 90vh;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    transition: all 1.5s ease;
+}
+.banner {
+    display: flex;
+    position: absolute;
+    left:0;
+    top:10vh;
+    height: 90vh;
+    width: 30vw;
+    opacity: 0.5;
+    background-color: black;
+    z-index: 1;
+    align-items: center;
+    justify-content: center;
+}
+.slide {
+    display: flex;
+    position: relative;
+    width:100vw;
+    height: 90vh;
+    background-color: white;
+}
+.backgroundImg{
+    width: 100vw;
+    height: 90vh;
+}
+.leftButton {
+    position: absolute;
+    left: 50px;
+    top: 50vh;
+    font-size: 48px;
+    color: black;
+    z-index: 2;
+}
+.leftButton:hover {
+    cursor: pointer;
+    color: white;
+}
+.rightButton {
+    position: absolute;
+    right: 50px;
+    top: 50vh;
+    font-size: 48px;
+    color: black;
+}
+.rightButton:hover {
+    cursor: pointer;
+    color: white;
+}
+.bannerHeader {
+    color: white;
+}
+.normalProj {
+    display: flex;
+    width: 100vw;
+    height: 30vh;
+    margin: auto;
+    border: black;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.projImage {
+    width: 300px;
+    background-color: black;
+    border-radius: 20px;
+}
+.testimonial {
+    display: flex;
+    width: 30vw;
+    margin: auto;
+    border: black;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.testimonialImage {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
 }

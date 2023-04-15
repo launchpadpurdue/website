@@ -9,6 +9,7 @@
     left: 0;
     overflow:hidden;
     flex-direction: row;
+    z-index: 10;
 }
 .left {
     display: flex;

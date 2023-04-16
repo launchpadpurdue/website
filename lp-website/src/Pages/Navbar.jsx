@@ -7,7 +7,7 @@ export default function Navbar() {
     <div className="navbar">
         <div className="left">
             <h1 className="launchpadTitle">
-                Launchpad
+                LaunchPad
             </h1>
         </div>
         <div className="right">

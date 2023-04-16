@@ -31,7 +31,7 @@ export default function Team() {
     <div className='body'>
         <center>
           <br />
-          <h1 className='header'>Meet the team!</h1>
+          <h1 className='header'>Meet the Team!</h1>
           <br />
         </center>
         <Container>

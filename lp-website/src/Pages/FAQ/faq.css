@@ -6,4 +6,41 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
+    background-color: #1A3139;
+}
+
+.title {
+    color: orange;
+    position: absolute;
+    height: 70vh;
+    margin-bottom: 10vh;
+}
+
+.question-box{
+    margin-top: 30px;
+    border-color: #1A3139;
+    width: 100ch;
+    height: 20vh;
+    border: 2px solid;
+  padding: 12px;
+  box-shadow: 10px 4px;
+    border-style: inherit;
+    background-color: hsl(195, 37%, 22%);
+}
+
+.question {
+    color: orange;;
+    font-size: xx-large;
+    margin-bottom: 25px;
+
+}
+
+.answer {
+    color: white;
+
+}
+
+.all-questions {
+    margin: 50px;
+
 }

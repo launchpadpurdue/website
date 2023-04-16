@@ -1,3 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa");
+.body {
+    background-color: #1A3139;
+}
+
+.header {
+    color: #F37434;
+    font-family: 'Righteous';
+}
+
+p {
+    color: #FEF6ED;
+    font-family: 'Comfortaa';
+    font-size: 16px;
+}
+
 .team {
     display: flex;
     overflow: scroll;
@@ -7,3 +24,104 @@
     justify-content: center;
     height: 90vh;
 }
+
+.linkedin {
+    float: right;
+    margin-right: 30px;
+    margin-top: 3px;
+}
+.block {
+    position: relative;
+    width: 150px;
+  }
+  
+  .image {
+    display: block;
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    border-radius: 50%;
+    height: 100%;
+    width: 150px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #061419;
+  }
+  .overlay1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    border-radius: 50%;
+    height: 100%;
+    width: 150px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #552222;
+  }
+
+  .overlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    border-radius: 50%;
+    height: 100%;
+    width: 150px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #225522;
+  }
+
+  .overlay3 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    border-radius: 50%;
+    height: 100%;
+    width: 150px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #222255;
+  }
+  
+  .text {
+    color: #ffffff;
+    font-family: 'Comfortaa';
+    font-size: 17px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .block:hover .overlay {
+    opacity: 0.85;
+  }
+  
+  .block:hover .overlay1 {
+    opacity: 0.85;
+  }
+
+  .block:hover .overlay2 {
+    opacity: 0.85;
+  }
+  
+  .block:hover .overlay3 {
+    opacity: 0.85;
+  }

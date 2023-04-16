@@ -44,7 +44,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/seandlee18/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Sean Lee</p>
+            <p className="p">Sean Lee</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -54,7 +54,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/seohyun-lee-886905174/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Joseph Lee</p>
+            <p className="p">Joseph Lee</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -64,7 +64,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/vidya-vuppala/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Vidya Vuppala</p>
+            <p className="p">Vidya Vuppala</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -74,7 +74,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/ayushi-mohanty-20a9181b1/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Ayushi Mohanty</p>
+            <p className="p">Ayushi Mohanty</p>
             </Col>
           </Row>
           <br />
@@ -87,7 +87,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/jisoo-kim-1891991a9/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Jisoo Kim</p>
+            <p className="p">Jisoo Kim</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -97,7 +97,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/elise-a-miller/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Elise Miller</p>
+            <p className="p">Elise Miller</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -107,7 +107,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/aryansw/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Aryan Wadhwani</p>
+            <p className="p">Aryan Wadhwani</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -117,7 +117,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/ishaan-raja/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Ishaan Raja</p>
+            <p className="p">Ishaan Raja</p>
             </Col>
           </Row>
           <br />
@@ -130,7 +130,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/joeyjpowers/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Joey Powers</p>
+            <p className="p">Joey Powers</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -140,7 +140,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/rohanpurandare/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Rohan Purandare</p>
+            <p className="p">Rohan Purandare</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -150,7 +150,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/akshaya-kumar-/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Akshaya Kumar</p>
+            <p className="p">Akshaya Kumar</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -160,7 +160,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/shrinivas-venkatesan/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Shrinivas Venkatesan</p>
+            <p className="p">Shrinivas Venkatesan</p>
             </Col>
           </Row>
           <br />
@@ -173,7 +173,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/arielle-dong-5a3a2a254/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Arielle Dong</p>
+            <p className="p">Arielle Dong</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -183,7 +183,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/dasare467/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Dwayne Asare</p>
+            <p className="p">Dwayne Asare</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -193,7 +193,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/jack-jiang-17bb17263/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Jack Jiang</p>
+            <p className="p">Jack Jiang</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -203,7 +203,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/joseph-daugherty/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Joseph Daugherty</p>
+            <p className="p">Joseph Daugherty</p>
             </Col>
           </Row>
           <br />
@@ -216,7 +216,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/katelynchen12/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Katelyn Chen</p>
+            <p className="p">Katelyn Chen</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -226,7 +226,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/sanyamehra/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Sanya Mehra</p>
+            <p className="p">Sanya Mehra</p>
             </Col>
             <Col md="2">
             <div class="block">
@@ -236,7 +236,7 @@ export default function Team() {
               </div>
             </div>
             <a href="https://www.linkedin.com/in/visvshah/" target="_blank"><img src={linkedinIcon} class="linkedin" width="15px"/></a>
-            <p>Visv Shah</p>
+            <p className="p">Visv Shah</p>
             </Col>
           </Row>
           <br />

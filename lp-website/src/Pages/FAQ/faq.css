@@ -2,7 +2,6 @@
     display: flex;
     overflow: scroll;
     flex-direction: column;
-    margin-top: 10vh;
     align-items: center;
     justify-content: center;
     height: 90vh;
@@ -22,8 +21,8 @@
     width: 100ch;
     height: 20vh;
     border: 2px solid;
-  padding: 12px;
-  box-shadow: 10px 4px;
+    padding: 12px;
+    box-shadow: 10px 4px;
     border-style: inherit;
     background-color: hsl(195, 37%, 22%);
 }

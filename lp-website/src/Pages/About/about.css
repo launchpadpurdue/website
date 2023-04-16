@@ -2,9 +2,9 @@
     display: flex;
     overflow: scroll;
     flex-direction: column;
-    margin-top: 10vh;
     align-items: center;
     justify-content: center;
+    
 }
 .page {
     display: flex;
@@ -23,6 +23,7 @@
     background-color: white;
     flex-direction: column;
     padding: 10px;
+    color: black;
 }
 .page.testimonials{
     display: flex;
@@ -30,6 +31,7 @@
     align-items: center;
     flex-direction: row;
     background-color: gray;
+    color: black;
 }
 .backgroundSlider {
     position: absolute;
@@ -99,6 +101,7 @@
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
+    color: black;
 }
 .projImage {
     width: 300px;

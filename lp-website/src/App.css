@@ -2,3 +2,11 @@
   left: 0;
   top: 0;
 }
+
+.apply {
+  position: fixed;
+  border-radius: 20px;
+  right: 25px;
+  bottom: 25px;
+  padding: 10px;
+}

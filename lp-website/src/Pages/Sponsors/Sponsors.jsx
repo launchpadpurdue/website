@@ -33,16 +33,16 @@ export default function Sponsors() {
 
       <div className='prev-sponsors'>
         <div className='prev-text'>Previous Sponsors</div>
-
-      <Container>
+    
+      <Container className='center'>
         <Row>
-          <Col md = "2"><img src={att}  className="pic" alt="AT&T Logo" /></Col>
+          <Col md = "3"><img src={att}  className="pic" alt="AT&T Logo" /></Col>
 
-          <Col md = "2"><img src={comcast} className="pic" alt="Comcast Logo" /></Col>
+          <Col md = "3"><img src={comcast} className="pic" alt="Comcast Logo" /></Col>
 
-          <Col md = "2"><img src={nthg} className="pic" alt="Northrop Grumman Logo" /></Col>
+          <Col md = "3"><img src={nthg} className="pic" alt="Northrop Grumman Logo" /></Col>
 
-          <Col md = "2"><img src={xtern} className="pic" alt="Xtern Logo" /></Col>
+          <Col md = "3"><img src={xtern} className="pic" alt="Xtern Logo" /></Col>
         </Row>
       </Container>
       </div>

@@ -1,12 +1,14 @@
 import React from 'react'
 import "./navbar.css"
+import logo from './Website.png'
 import {Link} from "react-router-dom";
 
 export default function Navbar() {
   return (
     <div className="navbar">
         <div className="left">
-            <h1 className="launchpadTitle">
+            <a href = "/"><img src={logo} width="60" height="60" /></a>
+            <h1>
                 LaunchPad
             </h1>
         </div>

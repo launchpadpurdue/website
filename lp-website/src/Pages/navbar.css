@@ -22,9 +22,7 @@
     align-items: center;
     flex: 4;
 }
-.launchpadTitle {
-    margin-left: 20px;
-}
+
 .signin{
     background-color: black;
     border: none;

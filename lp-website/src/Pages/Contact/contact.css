@@ -5,5 +5,17 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
-    margin-top: 10vh;
+
+}
+.contact_form{
+    margin: 0;
+    top: 0;
+}
+.top_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
 }

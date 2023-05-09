@@ -5,7 +5,8 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
-
+    background-color: #1A3139;
+    color: #F37434;
 }
 .contact_form{
     margin: 0;
@@ -14,7 +15,7 @@
 .top_wrapper {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 100%;
     padding: 5px;

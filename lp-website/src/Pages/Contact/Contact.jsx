@@ -4,9 +4,9 @@ import "./contact.css"
 export default function Contact() {
   return (
     <div className="contact">
+      <h1 className="contact_title">Contact Us!</h1>
       <div className="top_wrapper">
-        <h1 className="contact_title">Contact Us!</h1>
-        <h2 className="contact_title">Email: launchpadpurdue@gmail.com</h2>
+        <h2 className="contact_title">Fill out the form or email: launchpadpurdue@gmail.com</h2>
       </div>
 
         <iframe

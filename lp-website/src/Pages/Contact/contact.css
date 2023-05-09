@@ -5,5 +5,18 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
-    margin-top: 10vh;
+    background-color: #1A3139;
+    color: #F37434;
+}
+.contact_form{
+    margin: 0;
+    top: 0;
+}
+.top_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
 }

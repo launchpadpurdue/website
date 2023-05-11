@@ -35,7 +35,7 @@ function App() {
           <Route path = "/sponsors" element = {<Sponsors/>}/>
           <Route path = "/team" element = {<Team/>}/>
         </Routes>
-        {timeout}
+        {/* {timeout} */}
         <a href='https://google.com' target="_blank"><button onMouseOver={mouseOver} onMouseOut={mouseOut} className='apply'>{buttonText}</button></a>
         {/*      ^^^Enter link to the application form here */}
       </div>

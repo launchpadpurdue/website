@@ -23,7 +23,8 @@
     align-items: center;
     background-color: white;
     flex-direction: column;
-    padding: 10px;
+    padding: 5px;
+    height: 120vh;
     color: black;
 }
 .page.testimonials{
@@ -32,6 +33,7 @@
     align-items: center;
     flex-direction: row;
     background-color: gray;
+    /* height: 100vh; */
     color: black;
 }
 .backgroundSlider {
@@ -49,8 +51,8 @@
     left:0;
     top:10vh;
     height: 90vh;
-    width: 30vw;
-    opacity: 0.5;
+    width: 35vw;
+    opacity: 0.75;
     background-color: black;
     z-index: 1;
     align-items: center;
@@ -91,18 +93,27 @@
     color: white;
 }
 .bannerHeader {
+    padding: 0 20px;
+    text-align: center;
     color: white;
 }
 .normalProj {
     display: flex;
-    width: 100vw;
-    height: 30vh;
-    margin: auto;
+    width: 70vw;
+    height: 25vh;
+    margin: 5px;
     border: black;
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
     color: black;
+}
+.projDesc {
+    width: 55vh;
+}
+.github {
+    float: left;
+    margin-right: 10px;
 }
 .projImage {
     width: 300px;
@@ -111,12 +122,17 @@
 }
 .testimonial {
     display: flex;
-    width: 30vw;
-    margin: auto;
+    width: 25vw;
+    margin-left: auto;
+    margin-right: auto;
     border: black;
+    text-align: center;
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
+}
+.participation {
+    width: 25vw;
 }
 .testimonialImage {
     width: 200px;

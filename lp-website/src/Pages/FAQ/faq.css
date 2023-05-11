@@ -4,22 +4,20 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 90vh;
     background-color: #1A3139;
 }
 
 .title {
-    color: orange;
+    color: #F37434;
     position: absolute;
-    height: 70vh;
-    margin-bottom: 10vh;
+    margin-bottom: 160vh;
 }
 
 .question-box{
     margin-top: 30px;
     border-color: #1A3139;
     width: 100ch;
-    height: 20vh;
+    height: auto;
     border: 2px solid;
     padding: 12px;
     box-shadow: 10px 4px;
@@ -28,7 +26,7 @@
 }
 
 .question {
-    color: orange;;
+    color: #F37434;
     font-size: xx-large;
     margin-bottom: 25px;
 

@@ -23,12 +23,7 @@ export default function Sponsors() {
       </div>
 
       <div className='Bottom-Half'>
-      Lorem ipsum dolor sit amet, 
-      consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
-      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
-      dolore eu fugiat nulla pariatur.
+      LaunchPad is committed to hosting engaging events for our Mentors and Mentees. A large part of these events being successful is from the generosity of our corporate sponsors. Our corporate sponsors help us provide food, host events, and much more to make sure LaunchPad is able to be as great as it is. These sponsorships help LaunchPad be as engaging as it can be, while also providing our corporate sponsors an amazing set of knowledgeable students who are eager to expand their horizons with opportunities, among other benefits. More information about our sponsorship opportunities can be found in our <a href="https://drive.google.com/file/d/1SLgKCQAMUmMWrkxCraTo-mLFsAD7PvQo/view?usp=sharing" target="_blank">sponsorship packet</a>
       </div>
 
       <div className='prev-sponsors'>

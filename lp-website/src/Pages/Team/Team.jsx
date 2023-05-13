@@ -39,7 +39,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={seanlee} alt="Sean Lee" class="image" width="150px"/>
-              <div class="overlay">
+              <div class="exec">
                 <div class="text">President</div>
               </div>
             </div>
@@ -49,7 +49,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={josephlee} alt="Joseph Lee" class="image" width="150px"/>
-              <div class="overlay">
+              <div class="exec">
                 <div class="text">Treasurer</div>
               </div>
             </div>
@@ -59,7 +59,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={vidyavuppala} alt="Vidya Vuppala" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Lead</div>
               </div>
             </div>
@@ -69,7 +69,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={ayushimohanty} alt="Ayushi Mohanty" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Lead</div>
               </div>
             </div>
@@ -82,7 +82,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={jisookim} alt="Jisoo Kim" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Team</div>
               </div>
             </div>
@@ -92,7 +92,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={elisemiller} alt="Elise Miller" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -102,7 +102,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={aryanwadhwani} alt="Aryan Wadhwani" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -112,7 +112,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={ishaanraja} alt="Ishaan Raja" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -125,7 +125,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={joeypowers} alt="Joey Powers" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Team</div>
               </div>
             </div>
@@ -135,7 +135,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={rohanpurandare} alt="Rohan Purandare" class="image" width="150px"/>
-              <div class="overlay3">
+              <div class="webdev">
                 <div class="text">Web Dev Lead</div>
               </div>
             </div>
@@ -145,7 +145,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={akshayakumar} alt="Akshaya Kumar" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Team</div>
               </div>
             </div>
@@ -155,7 +155,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={shrinivasvenkatesan} alt="Shrinivas Venkatesan" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -168,7 +168,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={arielledong} alt="Arielle Dong" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Team</div>
               </div>
             </div>
@@ -178,7 +178,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={dwayneasare} alt="Dwayne Asare" class="image" width="150px"/>
-              <div class="overlay3">
+              <div class="webdev">
                 <div class="text">Web Dev Team</div>
               </div>
             </div>
@@ -188,7 +188,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={jackjiang} alt="Jack Jiang" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -198,7 +198,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={josephdaugherty} alt="Joseph Daugherty" class="image" width="150px"/>
-              <div class="overlay3">
+              <div class="webdev">
                 <div class="text">Web Dev Team</div>
               </div>
             </div>
@@ -211,7 +211,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={katelynchen} alt="Katelyn Chen" class="image" width="150px"/>
-              <div class="overlay1">
+              <div class="ads">
                 <div class="text">Ads/Comm Team</div>
               </div>
             </div>
@@ -221,7 +221,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={sanyamehra} alt="Sanya Mehra" class="image" width="150px"/>
-              <div class="overlay2">
+              <div class="events">
                 <div class="text">Events Team</div>
               </div>
             </div>
@@ -231,7 +231,7 @@ export default function Team() {
             <Col md="2">
             <div class="block">
               <img src={visvshah} alt="Visv Shah" class="image" width="150px"/>
-              <div class="overlay3">
+              <div class="webdev">
                 <div class="text">Web Dev Team</div>
               </div>
             </div>

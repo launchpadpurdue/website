@@ -40,7 +40,7 @@
     height: auto;
   }
   
-  .overlay {
+  .exec {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -51,9 +51,9 @@
     width: 150px;
     opacity: 0;
     transition: .5s ease;
-    background-color: #061419;
+    background-color: #202020;
   }
-  .overlay1 {
+  .ads {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -64,24 +64,10 @@
     width: 150px;
     opacity: 0;
     transition: .5s ease;
-    background-color: #552222;
-  }
-
-  .overlay2 {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0px;
-    right: 0;
-    border-radius: 50%;
-    height: 100%;
-    width: 150px;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: #225522;
+    background-color: #391a1a;
   }
 
-  .overlay3 {
+  .events {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -92,12 +78,25 @@
     width: 150px;
     opacity: 0;
     transition: .5s ease;
-    background-color: #222255;
+    background-color: #39371a;
+  }
+
+  .webdev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    border-radius: 50%;
+    height: 100%;
+    width: 150px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #381a39;
   }
   
   .text {
     color: #ffffff;
-    font-family: 'Comfortaa';
     font-size: 17px;
     position: absolute;
     top: 50%;
@@ -108,18 +107,18 @@
     text-align: center;
   }
 
-  .block:hover .overlay {
+  .block:hover .exec {
     opacity: 0.85;
   }
   
-  .block:hover .overlay1 {
+  .block:hover .ads {
     opacity: 0.85;
   }
 
-  .block:hover .overlay2 {
+  .block:hover .events {
     opacity: 0.85;
   }
   
-  .block:hover .overlay3 {
+  .block:hover .webdev {
     opacity: 0.85;
   }
